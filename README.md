@@ -1,6 +1,6 @@
 # Pong 2-Player Game
 
-![Pong Gameplay](pong_screenshot.png)
+![Pong Gameplay](Pong_screenshot.png)
 
 Pong is a classic 2-player game implemented in Love2D, where two players control paddles to hit a ball back and forth. The objective is to score points by making the ball pass the opponent's paddle.
 
