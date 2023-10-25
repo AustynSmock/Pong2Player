@@ -42,3 +42,13 @@ Player 2 (Right Paddle):
 General Controls:
 - Start/Restart the game: Enter/Return
 - Quit the game: Escape
+
+## Code Overview
+
+This game is built using the Love2D framework and consists of multiple Lua scripts:
+
+1. main.lua: This is the main entry point for the Love2D application, containing game setup and the main loop.
+
+2. Ball.lua and Paddle.lua: These files define the Ball and Paddle classes used for game elements. They manage ball movement, collisions, and paddle behavior.
+
+3. push.lua: This script is part of the push library used to handle screen scaling and rendering.
