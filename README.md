@@ -28,6 +28,9 @@ Pong is a classic 2-player game implemented in Love2D, where two players control
    ```bash
    git clone https://github.com/AustynSmock/Pong2Player.git
    cd Pong2Player
+
+3. Click and drag Pong2Player folder onto either love.exe or a shortcut to love.exe
+
 ## Controls
 
 Player 1 (Left Paddle):
